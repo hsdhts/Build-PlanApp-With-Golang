@@ -10,7 +10,7 @@ The Todo App is a web application that allows you to create and manage a list of
 
 - Add new todos
 - Mark todos as completed
-- Delete todos
+
 
 ## Requirements
 
@@ -28,11 +28,17 @@ The Todo App is a web application that allows you to create and manage a list of
 
 2. Navigate to the project directory:
 
-   cd todo-app-go
+   ```bash
+     cd todo-app-go 
+
+   ```
 
 3. Start the application:
 
-   go run main.go
+   ```bash
+    go run main.go
+
+   ```
 
 4. Open your web browser and visit http://localhost:8080 to access the Todo App.
 
